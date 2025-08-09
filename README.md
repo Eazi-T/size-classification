@@ -10,7 +10,7 @@ fruit-size-classification/
 │    └── Large
 ├── notebooks/
 │   └── Apple_size_CNN
-│   ├── Tomato_szie_CNN
+│   ├── Tomato_size_CNN
 └── README.md
 ```
 
